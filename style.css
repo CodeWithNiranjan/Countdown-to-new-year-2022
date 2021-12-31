@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/221808/sky.jpg);
+    background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     justify-content: center;
